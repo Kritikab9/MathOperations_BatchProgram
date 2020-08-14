@@ -6,4 +6,4 @@ change the path of .properties file in Log4jDemo.java
 
 editing in Log4jDemo.properties
 
-create table operations(action  varchar(10),operand1 int,operand2 int,result decimal(10,2));
+create table operations(op  varchar(10),no1 int,no2 int,result varchar(10));
