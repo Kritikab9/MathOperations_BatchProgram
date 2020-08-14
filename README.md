@@ -1,6 +1,6 @@
 # MathOperations_BatchProgram
 add ojddc6.jar
-https://mvnrepository.com/artifact/ojdbc6/ojdbc6/10.2.0.3.0
+https://mvnrepository.com/artifact/ojdbc14/ojdbc14/10.2.0.3.0
 
 change the path of .properties file in Log4jDemo.java
 
